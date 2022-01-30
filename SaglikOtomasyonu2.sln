@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaglikOtomasyonu2", "SaglikOtomasyonu2\SaglikOtomasyonu2.csproj", "{A2B7D668-E8C4-4626-BED6-E207ACCEB2F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7965E06B-9E64-4C67-AB34-8A8F582E316D}"
+	ProjectSection(SolutionItems) = preProject
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktor.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktor.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktor.Designer.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktor.Designer.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktor.resx = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktor.resx
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktorprofil.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktorprofil.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktorprofil.Designer.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktorprofil.Designer.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktorprofil.resx = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Doktorprofil.resx
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\HastaProfil.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\HastaProfil.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\HastaProfil.Designer.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\HastaProfil.Designer.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\HastaProfil.resx = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\HastaProfil.resx
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Hastarandevu.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Hastarandevu.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Hastarandevu.Designer.cs = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Hastarandevu.Designer.cs
+		..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Hastarandevu.resx = ..\sağlık otomasyonu 2.4\SaglikOtomasyonu2\SaglikOtomasyonu2\Hastarandevu.resx
+		..\..\..\bekoyeni\otomasyon2.1\otomasyon\SaglikOtomasyonu2\Ilaclarim.cs = ..\..\..\bekoyeni\otomasyon2.1\otomasyon\SaglikOtomasyonu2\Ilaclarim.cs
+		..\..\..\bekoyeni\otomasyon2.1\otomasyon\SaglikOtomasyonu2\Ilaclarim.Designer.cs = ..\..\..\bekoyeni\otomasyon2.1\otomasyon\SaglikOtomasyonu2\Ilaclarim.Designer.cs
+		..\..\..\bekoyeni\otomasyon2.1\otomasyon\SaglikOtomasyonu2\Ilaclarim.resx = ..\..\..\bekoyeni\otomasyon2.1\otomasyon\SaglikOtomasyonu2\Ilaclarim.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B7D668-E8C4-4626-BED6-E207ACCEB2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B7D668-E8C4-4626-BED6-E207ACCEB2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B7D668-E8C4-4626-BED6-E207ACCEB2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B7D668-E8C4-4626-BED6-E207ACCEB2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B9E34A4-1B55-4942-A45C-3EC6075CCC8B}
+	EndGlobalSection
+EndGlobal

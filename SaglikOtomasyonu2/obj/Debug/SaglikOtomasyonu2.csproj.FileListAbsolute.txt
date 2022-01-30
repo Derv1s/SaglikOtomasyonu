@@ -1,0 +1,107 @@
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe.config
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.pdb
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Giris.resources
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Properties.Resources.resources
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.exe
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.pdb
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.KayitOl.resources
+C:\Users\berka\Desktop\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktor.resources
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe.config
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.pdb
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktor.resources
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Giris.resources
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.KayitOl.resources
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Properties.Resources.resources
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.GenerateResource.cache
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.exe
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.pdb
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hasta.resources
+C:\Users\ubeyd\OneDrive\Masaüstü\Sağlık Otomasyonu 2.2\Sağlık Otomasyonu 2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csprojAssemblyReference.cache
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe.config
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.pdb
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.AssemblyReference.cache
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktor.resources
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Giris.resources
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hasta.resources
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.KayitOl.resources
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Properties.Resources.resources
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.GenerateResource.cache
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.exe
+C:\Users\Hukuk\Desktop\proje\sağlık otomasyonu\sağlık otomasyonu 2.2\SaglikOtomasyonu2\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.pdb
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe.config
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.pdb
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktor.resources
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktorprofil.resources
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Giris.resources
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hasta.resources
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.KayitOl.resources
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.exe
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.pdb
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.HastaProfil.resources
+C:\Users\lenovo\Desktop\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hastarandevu.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe.config
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.pdb
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.AssemblyReference.cache
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktor.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktorprofil.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Giris.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hasta.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.HastaProfil.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hastarandevu.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.KayitOl.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Properties.Resources.resources
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.GenerateResource.cache
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.exe
+C:\Users\berka\Downloads\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.pdb
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe.config
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.pdb
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktor.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktorprofil.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Giris.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hasta.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.HastaProfil.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hastarandevu.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.KayitOl.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.exe
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.pdb
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Randevularım.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Ilaclarim.resources
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\KullaniciGiris.accdb
+C:\Users\lenovo\Desktop\otomasyon 2.1 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.AssemblyReference.cache
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\KullaniciGiris.accdb
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe.config
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.exe
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\bin\Debug\SaglikOtomasyonu2.pdb
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.AssemblyReference.cache
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktor.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Doktorprofil.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Giris.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hasta.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.HastaProfil.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Hastarandevu.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Ilaclarim.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.KayitOl.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Properties.Resources.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.Randevularım.resources
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.GenerateResource.cache
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.exe
+C:\Users\berka\Downloads\otomasyon_2.2_lastest\otomasyon 2.2 lastest\otomasyon2.1\otomasyon\SaglikOtomasyonu2\obj\Debug\SaglikOtomasyonu2.pdb
